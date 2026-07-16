@@ -1,0 +1,1818 @@
+{
+  "categories": [
+    "Dona Silver",
+    "Plate Silver",
+    "Bowl",
+    "Compartment Plate"
+  ],
+  "sizes": [
+    "5\"",
+    "6\"",
+    "7\"",
+    "8\"",
+    "9\"",
+    "10\"",
+    "4 CP"
+  ],
+  "gsm": [
+    120,
+    140,
+    180
+  ],
+  "customerCategories": [
+    "Wholesale",
+    "Retail",
+    "User"
+  ],
+  "customerCategoryMinOrders": {
+    "Wholesale": 50,
+    "Retail": 10,
+    "User": 1
+  },
+  "defaultPacketsPerKatta": 100,
+  "defaultPiecesPerPacket": 18,
+  "priceList": [
+    {
+      "id": "P0001",
+      "category": "Dona Silver",
+      "size": "5\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.37,
+      "minOrder": 50
+    },
+    {
+      "id": "P0002",
+      "category": "Dona Silver",
+      "size": "5\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.4,
+      "minOrder": 10
+    },
+    {
+      "id": "P0003",
+      "category": "Dona Silver",
+      "size": "5\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 0.44,
+      "minOrder": 1
+    },
+    {
+      "id": "P0004",
+      "category": "Dona Silver",
+      "size": "5\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 0.41,
+      "minOrder": 50
+    },
+    {
+      "id": "P0005",
+      "category": "Dona Silver",
+      "size": "5\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 0.45,
+      "minOrder": 10
+    },
+    {
+      "id": "P0006",
+      "category": "Dona Silver",
+      "size": "5\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 0.49,
+      "minOrder": 1
+    },
+    {
+      "id": "P0007",
+      "category": "Dona Silver",
+      "size": "5\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 0.49,
+      "minOrder": 50
+    },
+    {
+      "id": "P0008",
+      "category": "Dona Silver",
+      "size": "5\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 0.53,
+      "minOrder": 10
+    },
+    {
+      "id": "P0009",
+      "category": "Dona Silver",
+      "size": "5\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 0.58,
+      "minOrder": 1
+    },
+    {
+      "id": "P0010",
+      "category": "Dona Silver",
+      "size": "6\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.42,
+      "minOrder": 50
+    },
+    {
+      "id": "P0011",
+      "category": "Dona Silver",
+      "size": "6\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.45,
+      "minOrder": 10
+    },
+    {
+      "id": "P0012",
+      "category": "Dona Silver",
+      "size": "6\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 0.5,
+      "minOrder": 1
+    },
+    {
+      "id": "P0013",
+      "category": "Dona Silver",
+      "size": "6\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 0.47,
+      "minOrder": 50
+    },
+    {
+      "id": "P0014",
+      "category": "Dona Silver",
+      "size": "6\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 0.5,
+      "minOrder": 10
+    },
+    {
+      "id": "P0015",
+      "category": "Dona Silver",
+      "size": "6\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 0.55,
+      "minOrder": 1
+    },
+    {
+      "id": "P0016",
+      "category": "Dona Silver",
+      "size": "6\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 0.56,
+      "minOrder": 50
+    },
+    {
+      "id": "P0017",
+      "category": "Dona Silver",
+      "size": "6\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 0.61,
+      "minOrder": 10
+    },
+    {
+      "id": "P0018",
+      "category": "Dona Silver",
+      "size": "6\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 0.66,
+      "minOrder": 1
+    },
+    {
+      "id": "P0019",
+      "category": "Dona Silver",
+      "size": "7\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.5,
+      "minOrder": 50
+    },
+    {
+      "id": "P0020",
+      "category": "Dona Silver",
+      "size": "7\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.53,
+      "minOrder": 10
+    },
+    {
+      "id": "P0021",
+      "category": "Dona Silver",
+      "size": "7\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 0.58,
+      "minOrder": 1
+    },
+    {
+      "id": "P0022",
+      "category": "Dona Silver",
+      "size": "7\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 0.55,
+      "minOrder": 50
+    },
+    {
+      "id": "P0023",
+      "category": "Dona Silver",
+      "size": "7\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 0.59,
+      "minOrder": 10
+    },
+    {
+      "id": "P0024",
+      "category": "Dona Silver",
+      "size": "7\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 0.65,
+      "minOrder": 1
+    },
+    {
+      "id": "P0025",
+      "category": "Dona Silver",
+      "size": "7\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 0.66,
+      "minOrder": 50
+    },
+    {
+      "id": "P0026",
+      "category": "Dona Silver",
+      "size": "7\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 0.71,
+      "minOrder": 10
+    },
+    {
+      "id": "P0027",
+      "category": "Dona Silver",
+      "size": "7\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 0.78,
+      "minOrder": 1
+    },
+    {
+      "id": "P0028",
+      "category": "Dona Silver",
+      "size": "8\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.57,
+      "minOrder": 50
+    },
+    {
+      "id": "P0029",
+      "category": "Dona Silver",
+      "size": "8\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.61,
+      "minOrder": 10
+    },
+    {
+      "id": "P0030",
+      "category": "Dona Silver",
+      "size": "8\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 0.67,
+      "minOrder": 1
+    },
+    {
+      "id": "P0031",
+      "category": "Dona Silver",
+      "size": "8\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 0.63,
+      "minOrder": 50
+    },
+    {
+      "id": "P0032",
+      "category": "Dona Silver",
+      "size": "8\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 0.68,
+      "minOrder": 10
+    },
+    {
+      "id": "P0033",
+      "category": "Dona Silver",
+      "size": "8\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 0.75,
+      "minOrder": 1
+    },
+    {
+      "id": "P0034",
+      "category": "Dona Silver",
+      "size": "8\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 0.76,
+      "minOrder": 50
+    },
+    {
+      "id": "P0035",
+      "category": "Dona Silver",
+      "size": "8\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 0.82,
+      "minOrder": 10
+    },
+    {
+      "id": "P0036",
+      "category": "Dona Silver",
+      "size": "8\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 0.9,
+      "minOrder": 1
+    },
+    {
+      "id": "P0037",
+      "category": "Dona Silver",
+      "size": "9\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.67,
+      "minOrder": 50
+    },
+    {
+      "id": "P0038",
+      "category": "Dona Silver",
+      "size": "9\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.72,
+      "minOrder": 10
+    },
+    {
+      "id": "P0039",
+      "category": "Dona Silver",
+      "size": "9\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 0.79,
+      "minOrder": 1
+    },
+    {
+      "id": "P0040",
+      "category": "Dona Silver",
+      "size": "9\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 0.74,
+      "minOrder": 50
+    },
+    {
+      "id": "P0041",
+      "category": "Dona Silver",
+      "size": "9\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 0.8,
+      "minOrder": 10
+    },
+    {
+      "id": "P0042",
+      "category": "Dona Silver",
+      "size": "9\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 0.88,
+      "minOrder": 1
+    },
+    {
+      "id": "P0043",
+      "category": "Dona Silver",
+      "size": "9\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 0.89,
+      "minOrder": 50
+    },
+    {
+      "id": "P0044",
+      "category": "Dona Silver",
+      "size": "9\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 0.96,
+      "minOrder": 10
+    },
+    {
+      "id": "P0045",
+      "category": "Dona Silver",
+      "size": "9\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 1.05,
+      "minOrder": 1
+    },
+    {
+      "id": "P0046",
+      "category": "Dona Silver",
+      "size": "10\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.77,
+      "minOrder": 50
+    },
+    {
+      "id": "P0047",
+      "category": "Dona Silver",
+      "size": "10\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.83,
+      "minOrder": 10
+    },
+    {
+      "id": "P0048",
+      "category": "Dona Silver",
+      "size": "10\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 0.91,
+      "minOrder": 1
+    },
+    {
+      "id": "P0049",
+      "category": "Dona Silver",
+      "size": "10\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 0.85,
+      "minOrder": 50
+    },
+    {
+      "id": "P0050",
+      "category": "Dona Silver",
+      "size": "10\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 0.92,
+      "minOrder": 10
+    },
+    {
+      "id": "P0051",
+      "category": "Dona Silver",
+      "size": "10\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 1.01,
+      "minOrder": 1
+    },
+    {
+      "id": "P0052",
+      "category": "Dona Silver",
+      "size": "10\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 1.02,
+      "minOrder": 50
+    },
+    {
+      "id": "P0053",
+      "category": "Dona Silver",
+      "size": "10\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 1.1,
+      "minOrder": 10
+    },
+    {
+      "id": "P0054",
+      "category": "Dona Silver",
+      "size": "10\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 1.21,
+      "minOrder": 1
+    },
+    {
+      "id": "P0055",
+      "category": "Plate Silver",
+      "size": "5\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.44,
+      "minOrder": 50
+    },
+    {
+      "id": "P0056",
+      "category": "Plate Silver",
+      "size": "5\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.47,
+      "minOrder": 10
+    },
+    {
+      "id": "P0057",
+      "category": "Plate Silver",
+      "size": "5\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 0.52,
+      "minOrder": 1
+    },
+    {
+      "id": "P0058",
+      "category": "Plate Silver",
+      "size": "5\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 0.49,
+      "minOrder": 50
+    },
+    {
+      "id": "P0059",
+      "category": "Plate Silver",
+      "size": "5\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 0.53,
+      "minOrder": 10
+    },
+    {
+      "id": "P0060",
+      "category": "Plate Silver",
+      "size": "5\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 0.58,
+      "minOrder": 1
+    },
+    {
+      "id": "P0061",
+      "category": "Plate Silver",
+      "size": "5\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 0.59,
+      "minOrder": 50
+    },
+    {
+      "id": "P0062",
+      "category": "Plate Silver",
+      "size": "5\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 0.63,
+      "minOrder": 10
+    },
+    {
+      "id": "P0063",
+      "category": "Plate Silver",
+      "size": "5\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 0.69,
+      "minOrder": 1
+    },
+    {
+      "id": "P0064",
+      "category": "Plate Silver",
+      "size": "6\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.5,
+      "minOrder": 50
+    },
+    {
+      "id": "P0065",
+      "category": "Plate Silver",
+      "size": "6\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.54,
+      "minOrder": 10
+    },
+    {
+      "id": "P0066",
+      "category": "Plate Silver",
+      "size": "6\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 0.59,
+      "minOrder": 1
+    },
+    {
+      "id": "P0067",
+      "category": "Plate Silver",
+      "size": "6\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 0.55,
+      "minOrder": 50
+    },
+    {
+      "id": "P0068",
+      "category": "Plate Silver",
+      "size": "6\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 0.6,
+      "minOrder": 10
+    },
+    {
+      "id": "P0069",
+      "category": "Plate Silver",
+      "size": "6\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 0.65,
+      "minOrder": 1
+    },
+    {
+      "id": "P0070",
+      "category": "Plate Silver",
+      "size": "6\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 0.66,
+      "minOrder": 50
+    },
+    {
+      "id": "P0071",
+      "category": "Plate Silver",
+      "size": "6\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 0.72,
+      "minOrder": 10
+    },
+    {
+      "id": "P0072",
+      "category": "Plate Silver",
+      "size": "6\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 0.78,
+      "minOrder": 1
+    },
+    {
+      "id": "P0073",
+      "category": "Plate Silver",
+      "size": "7\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.59,
+      "minOrder": 50
+    },
+    {
+      "id": "P0074",
+      "category": "Plate Silver",
+      "size": "7\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.63,
+      "minOrder": 10
+    },
+    {
+      "id": "P0075",
+      "category": "Plate Silver",
+      "size": "7\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 0.69,
+      "minOrder": 1
+    },
+    {
+      "id": "P0076",
+      "category": "Plate Silver",
+      "size": "7\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 0.65,
+      "minOrder": 50
+    },
+    {
+      "id": "P0077",
+      "category": "Plate Silver",
+      "size": "7\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 0.7,
+      "minOrder": 10
+    },
+    {
+      "id": "P0078",
+      "category": "Plate Silver",
+      "size": "7\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 0.77,
+      "minOrder": 1
+    },
+    {
+      "id": "P0079",
+      "category": "Plate Silver",
+      "size": "7\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 0.78,
+      "minOrder": 50
+    },
+    {
+      "id": "P0080",
+      "category": "Plate Silver",
+      "size": "7\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 0.84,
+      "minOrder": 10
+    },
+    {
+      "id": "P0081",
+      "category": "Plate Silver",
+      "size": "7\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 0.92,
+      "minOrder": 1
+    },
+    {
+      "id": "P0082",
+      "category": "Plate Silver",
+      "size": "8\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.67,
+      "minOrder": 50
+    },
+    {
+      "id": "P0083",
+      "category": "Plate Silver",
+      "size": "8\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.73,
+      "minOrder": 10
+    },
+    {
+      "id": "P0084",
+      "category": "Plate Silver",
+      "size": "8\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 0.79,
+      "minOrder": 1
+    },
+    {
+      "id": "P0085",
+      "category": "Plate Silver",
+      "size": "8\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 0.75,
+      "minOrder": 50
+    },
+    {
+      "id": "P0086",
+      "category": "Plate Silver",
+      "size": "8\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 0.81,
+      "minOrder": 10
+    },
+    {
+      "id": "P0087",
+      "category": "Plate Silver",
+      "size": "8\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 0.88,
+      "minOrder": 1
+    },
+    {
+      "id": "P0088",
+      "category": "Plate Silver",
+      "size": "8\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 0.9,
+      "minOrder": 50
+    },
+    {
+      "id": "P0089",
+      "category": "Plate Silver",
+      "size": "8\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 0.97,
+      "minOrder": 10
+    },
+    {
+      "id": "P0090",
+      "category": "Plate Silver",
+      "size": "8\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 1.06,
+      "minOrder": 1
+    },
+    {
+      "id": "P0091",
+      "category": "Plate Silver",
+      "size": "9\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.79,
+      "minOrder": 50
+    },
+    {
+      "id": "P0092",
+      "category": "Plate Silver",
+      "size": "9\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.85,
+      "minOrder": 10
+    },
+    {
+      "id": "P0093",
+      "category": "Plate Silver",
+      "size": "9\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 0.93,
+      "minOrder": 1
+    },
+    {
+      "id": "P0094",
+      "category": "Plate Silver",
+      "size": "9\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 0.88,
+      "minOrder": 50
+    },
+    {
+      "id": "P0095",
+      "category": "Plate Silver",
+      "size": "9\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 0.95,
+      "minOrder": 10
+    },
+    {
+      "id": "P0096",
+      "category": "Plate Silver",
+      "size": "9\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 1.04,
+      "minOrder": 1
+    },
+    {
+      "id": "P0097",
+      "category": "Plate Silver",
+      "size": "9\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 1.05,
+      "minOrder": 50
+    },
+    {
+      "id": "P0098",
+      "category": "Plate Silver",
+      "size": "9\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 1.14,
+      "minOrder": 10
+    },
+    {
+      "id": "P0099",
+      "category": "Plate Silver",
+      "size": "9\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 1.24,
+      "minOrder": 1
+    },
+    {
+      "id": "P0100",
+      "category": "Plate Silver",
+      "size": "10\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.91,
+      "minOrder": 50
+    },
+    {
+      "id": "P0101",
+      "category": "Plate Silver",
+      "size": "10\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.98,
+      "minOrder": 10
+    },
+    {
+      "id": "P0102",
+      "category": "Plate Silver",
+      "size": "10\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 1.07,
+      "minOrder": 1
+    },
+    {
+      "id": "P0103",
+      "category": "Plate Silver",
+      "size": "10\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 1.01,
+      "minOrder": 50
+    },
+    {
+      "id": "P0104",
+      "category": "Plate Silver",
+      "size": "10\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 1.09,
+      "minOrder": 10
+    },
+    {
+      "id": "P0105",
+      "category": "Plate Silver",
+      "size": "10\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 1.19,
+      "minOrder": 1
+    },
+    {
+      "id": "P0106",
+      "category": "Plate Silver",
+      "size": "10\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 1.21,
+      "minOrder": 50
+    },
+    {
+      "id": "P0107",
+      "category": "Plate Silver",
+      "size": "10\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 1.31,
+      "minOrder": 10
+    },
+    {
+      "id": "P0108",
+      "category": "Plate Silver",
+      "size": "10\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 1.43,
+      "minOrder": 1
+    },
+    {
+      "id": "P0109",
+      "category": "Bowl",
+      "size": "5\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.51,
+      "minOrder": 50
+    },
+    {
+      "id": "P0110",
+      "category": "Bowl",
+      "size": "5\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.55,
+      "minOrder": 10
+    },
+    {
+      "id": "P0111",
+      "category": "Bowl",
+      "size": "5\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 0.6,
+      "minOrder": 1
+    },
+    {
+      "id": "P0112",
+      "category": "Bowl",
+      "size": "5\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 0.56,
+      "minOrder": 50
+    },
+    {
+      "id": "P0113",
+      "category": "Bowl",
+      "size": "5\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 0.61,
+      "minOrder": 10
+    },
+    {
+      "id": "P0114",
+      "category": "Bowl",
+      "size": "5\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 0.66,
+      "minOrder": 1
+    },
+    {
+      "id": "P0115",
+      "category": "Bowl",
+      "size": "5\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 0.67,
+      "minOrder": 50
+    },
+    {
+      "id": "P0116",
+      "category": "Bowl",
+      "size": "5\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 0.73,
+      "minOrder": 10
+    },
+    {
+      "id": "P0117",
+      "category": "Bowl",
+      "size": "5\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 0.8,
+      "minOrder": 1
+    },
+    {
+      "id": "P0118",
+      "category": "Bowl",
+      "size": "6\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.57,
+      "minOrder": 50
+    },
+    {
+      "id": "P0119",
+      "category": "Bowl",
+      "size": "6\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.62,
+      "minOrder": 10
+    },
+    {
+      "id": "P0120",
+      "category": "Bowl",
+      "size": "6\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 0.68,
+      "minOrder": 1
+    },
+    {
+      "id": "P0121",
+      "category": "Bowl",
+      "size": "6\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 0.64,
+      "minOrder": 50
+    },
+    {
+      "id": "P0122",
+      "category": "Bowl",
+      "size": "6\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 0.69,
+      "minOrder": 10
+    },
+    {
+      "id": "P0123",
+      "category": "Bowl",
+      "size": "6\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 0.75,
+      "minOrder": 1
+    },
+    {
+      "id": "P0124",
+      "category": "Bowl",
+      "size": "6\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 0.76,
+      "minOrder": 50
+    },
+    {
+      "id": "P0125",
+      "category": "Bowl",
+      "size": "6\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 0.83,
+      "minOrder": 10
+    },
+    {
+      "id": "P0126",
+      "category": "Bowl",
+      "size": "6\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 0.9,
+      "minOrder": 1
+    },
+    {
+      "id": "P0127",
+      "category": "Bowl",
+      "size": "7\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.68,
+      "minOrder": 50
+    },
+    {
+      "id": "P0128",
+      "category": "Bowl",
+      "size": "7\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.73,
+      "minOrder": 10
+    },
+    {
+      "id": "P0129",
+      "category": "Bowl",
+      "size": "7\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 0.8,
+      "minOrder": 1
+    },
+    {
+      "id": "P0130",
+      "category": "Bowl",
+      "size": "7\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 0.75,
+      "minOrder": 50
+    },
+    {
+      "id": "P0131",
+      "category": "Bowl",
+      "size": "7\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 0.81,
+      "minOrder": 10
+    },
+    {
+      "id": "P0132",
+      "category": "Bowl",
+      "size": "7\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 0.89,
+      "minOrder": 1
+    },
+    {
+      "id": "P0133",
+      "category": "Bowl",
+      "size": "7\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 0.9,
+      "minOrder": 50
+    },
+    {
+      "id": "P0134",
+      "category": "Bowl",
+      "size": "7\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 0.97,
+      "minOrder": 10
+    },
+    {
+      "id": "P0135",
+      "category": "Bowl",
+      "size": "7\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 1.06,
+      "minOrder": 1
+    },
+    {
+      "id": "P0136",
+      "category": "Bowl",
+      "size": "8\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.78,
+      "minOrder": 50
+    },
+    {
+      "id": "P0137",
+      "category": "Bowl",
+      "size": "8\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.84,
+      "minOrder": 10
+    },
+    {
+      "id": "P0138",
+      "category": "Bowl",
+      "size": "8\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 0.92,
+      "minOrder": 1
+    },
+    {
+      "id": "P0139",
+      "category": "Bowl",
+      "size": "8\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 0.86,
+      "minOrder": 50
+    },
+    {
+      "id": "P0140",
+      "category": "Bowl",
+      "size": "8\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 0.93,
+      "minOrder": 10
+    },
+    {
+      "id": "P0141",
+      "category": "Bowl",
+      "size": "8\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 1.02,
+      "minOrder": 1
+    },
+    {
+      "id": "P0142",
+      "category": "Bowl",
+      "size": "8\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 1.03,
+      "minOrder": 50
+    },
+    {
+      "id": "P0143",
+      "category": "Bowl",
+      "size": "8\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 1.12,
+      "minOrder": 10
+    },
+    {
+      "id": "P0144",
+      "category": "Bowl",
+      "size": "8\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 1.22,
+      "minOrder": 1
+    },
+    {
+      "id": "P0145",
+      "category": "Bowl",
+      "size": "9\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.91,
+      "minOrder": 50
+    },
+    {
+      "id": "P0146",
+      "category": "Bowl",
+      "size": "9\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 0.98,
+      "minOrder": 10
+    },
+    {
+      "id": "P0147",
+      "category": "Bowl",
+      "size": "9\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 1.08,
+      "minOrder": 1
+    },
+    {
+      "id": "P0148",
+      "category": "Bowl",
+      "size": "9\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 1.01,
+      "minOrder": 50
+    },
+    {
+      "id": "P0149",
+      "category": "Bowl",
+      "size": "9\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 1.09,
+      "minOrder": 10
+    },
+    {
+      "id": "P0150",
+      "category": "Bowl",
+      "size": "9\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 1.19,
+      "minOrder": 1
+    },
+    {
+      "id": "P0151",
+      "category": "Bowl",
+      "size": "9\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 1.22,
+      "minOrder": 50
+    },
+    {
+      "id": "P0152",
+      "category": "Bowl",
+      "size": "9\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 1.31,
+      "minOrder": 10
+    },
+    {
+      "id": "P0153",
+      "category": "Bowl",
+      "size": "9\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 1.43,
+      "minOrder": 1
+    },
+    {
+      "id": "P0154",
+      "category": "Bowl",
+      "size": "10\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 1.05,
+      "minOrder": 50
+    },
+    {
+      "id": "P0155",
+      "category": "Bowl",
+      "size": "10\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 1.13,
+      "minOrder": 10
+    },
+    {
+      "id": "P0156",
+      "category": "Bowl",
+      "size": "10\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 1.23,
+      "minOrder": 1
+    },
+    {
+      "id": "P0157",
+      "category": "Bowl",
+      "size": "10\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 1.16,
+      "minOrder": 50
+    },
+    {
+      "id": "P0158",
+      "category": "Bowl",
+      "size": "10\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 1.26,
+      "minOrder": 10
+    },
+    {
+      "id": "P0159",
+      "category": "Bowl",
+      "size": "10\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 1.37,
+      "minOrder": 1
+    },
+    {
+      "id": "P0160",
+      "category": "Bowl",
+      "size": "10\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 1.4,
+      "minOrder": 50
+    },
+    {
+      "id": "P0161",
+      "category": "Bowl",
+      "size": "10\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 1.51,
+      "minOrder": 10
+    },
+    {
+      "id": "P0162",
+      "category": "Bowl",
+      "size": "10\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 1.65,
+      "minOrder": 1
+    },
+    {
+      "id": "P0163",
+      "category": "Compartment Plate",
+      "size": "8\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 0.98,
+      "minOrder": 50
+    },
+    {
+      "id": "P0164",
+      "category": "Compartment Plate",
+      "size": "8\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 1.06,
+      "minOrder": 10
+    },
+    {
+      "id": "P0165",
+      "category": "Compartment Plate",
+      "size": "8\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 1.16,
+      "minOrder": 1
+    },
+    {
+      "id": "P0166",
+      "category": "Compartment Plate",
+      "size": "8\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 1.09,
+      "minOrder": 50
+    },
+    {
+      "id": "P0167",
+      "category": "Compartment Plate",
+      "size": "8\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 1.18,
+      "minOrder": 10
+    },
+    {
+      "id": "P0168",
+      "category": "Compartment Plate",
+      "size": "8\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 1.29,
+      "minOrder": 1
+    },
+    {
+      "id": "P0169",
+      "category": "Compartment Plate",
+      "size": "8\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 1.31,
+      "minOrder": 50
+    },
+    {
+      "id": "P0170",
+      "category": "Compartment Plate",
+      "size": "8\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 1.42,
+      "minOrder": 10
+    },
+    {
+      "id": "P0171",
+      "category": "Compartment Plate",
+      "size": "8\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 1.55,
+      "minOrder": 1
+    },
+    {
+      "id": "P0172",
+      "category": "Compartment Plate",
+      "size": "9\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 1.15,
+      "minOrder": 50
+    },
+    {
+      "id": "P0173",
+      "category": "Compartment Plate",
+      "size": "9\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 1.25,
+      "minOrder": 10
+    },
+    {
+      "id": "P0174",
+      "category": "Compartment Plate",
+      "size": "9\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 1.36,
+      "minOrder": 1
+    },
+    {
+      "id": "P0175",
+      "category": "Compartment Plate",
+      "size": "9\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 1.28,
+      "minOrder": 50
+    },
+    {
+      "id": "P0176",
+      "category": "Compartment Plate",
+      "size": "9\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 1.39,
+      "minOrder": 10
+    },
+    {
+      "id": "P0177",
+      "category": "Compartment Plate",
+      "size": "9\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 1.51,
+      "minOrder": 1
+    },
+    {
+      "id": "P0178",
+      "category": "Compartment Plate",
+      "size": "9\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 1.54,
+      "minOrder": 50
+    },
+    {
+      "id": "P0179",
+      "category": "Compartment Plate",
+      "size": "9\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 1.66,
+      "minOrder": 10
+    },
+    {
+      "id": "P0180",
+      "category": "Compartment Plate",
+      "size": "9\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 1.82,
+      "minOrder": 1
+    },
+    {
+      "id": "P0181",
+      "category": "Compartment Plate",
+      "size": "10\"",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 1.33,
+      "minOrder": 50
+    },
+    {
+      "id": "P0182",
+      "category": "Compartment Plate",
+      "size": "10\"",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 1.43,
+      "minOrder": 10
+    },
+    {
+      "id": "P0183",
+      "category": "Compartment Plate",
+      "size": "10\"",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 1.56,
+      "minOrder": 1
+    },
+    {
+      "id": "P0184",
+      "category": "Compartment Plate",
+      "size": "10\"",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 1.47,
+      "minOrder": 50
+    },
+    {
+      "id": "P0185",
+      "category": "Compartment Plate",
+      "size": "10\"",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 1.59,
+      "minOrder": 10
+    },
+    {
+      "id": "P0186",
+      "category": "Compartment Plate",
+      "size": "10\"",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 1.74,
+      "minOrder": 1
+    },
+    {
+      "id": "P0187",
+      "category": "Compartment Plate",
+      "size": "10\"",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 1.77,
+      "minOrder": 50
+    },
+    {
+      "id": "P0188",
+      "category": "Compartment Plate",
+      "size": "10\"",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 1.91,
+      "minOrder": 10
+    },
+    {
+      "id": "P0189",
+      "category": "Compartment Plate",
+      "size": "10\"",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 2.09,
+      "minOrder": 1
+    },
+    {
+      "id": "P0190",
+      "category": "Compartment Plate",
+      "size": "4 CP",
+      "gsm": 120,
+      "customerCategory": "Wholesale",
+      "price": 1.45,
+      "minOrder": 50
+    },
+    {
+      "id": "P0191",
+      "category": "Compartment Plate",
+      "size": "4 CP",
+      "gsm": 120,
+      "customerCategory": "Retail",
+      "price": 1.57,
+      "minOrder": 10
+    },
+    {
+      "id": "P0192",
+      "category": "Compartment Plate",
+      "size": "4 CP",
+      "gsm": 120,
+      "customerCategory": "User",
+      "price": 1.72,
+      "minOrder": 1
+    },
+    {
+      "id": "P0193",
+      "category": "Compartment Plate",
+      "size": "4 CP",
+      "gsm": 140,
+      "customerCategory": "Wholesale",
+      "price": 1.61,
+      "minOrder": 50
+    },
+    {
+      "id": "P0194",
+      "category": "Compartment Plate",
+      "size": "4 CP",
+      "gsm": 140,
+      "customerCategory": "Retail",
+      "price": 1.74,
+      "minOrder": 10
+    },
+    {
+      "id": "P0195",
+      "category": "Compartment Plate",
+      "size": "4 CP",
+      "gsm": 140,
+      "customerCategory": "User",
+      "price": 1.91,
+      "minOrder": 1
+    },
+    {
+      "id": "P0196",
+      "category": "Compartment Plate",
+      "size": "4 CP",
+      "gsm": 180,
+      "customerCategory": "Wholesale",
+      "price": 1.94,
+      "minOrder": 50
+    },
+    {
+      "id": "P0197",
+      "category": "Compartment Plate",
+      "size": "4 CP",
+      "gsm": 180,
+      "customerCategory": "Retail",
+      "price": 2.09,
+      "minOrder": 10
+    },
+    {
+      "id": "P0198",
+      "category": "Compartment Plate",
+      "size": "4 CP",
+      "gsm": 180,
+      "customerCategory": "User",
+      "price": 2.29,
+      "minOrder": 1
+    }
+  ]
+}
