@@ -1,4 +1,4 @@
-// Shiv Sakti — Sales Desk service worker
+// Shiv-Sakti Enterprises — Sales Desk service worker
 // Caches the whole app shell on install so it opens instantly, offline,
 // on every visit after the first. Bump CACHE_NAME to force an update.
 const CACHE_NAME = "shiv-sakti-v2";
