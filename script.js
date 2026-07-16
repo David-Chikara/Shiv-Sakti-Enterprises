@@ -479,7 +479,7 @@ function buildOrderSummaryText() {
   const customerCategory = document.getElementById("ocCustomer").value;
   const katta = document.getElementById("ocKatta").value || 0;
   return [
-    `*Shiv Sakti — Order Summary*`,
+    `*Shiv-Sakti Enterprises — Order Summary*`,
     `Item: ${category}, ${size}, ${gsm} GSM`,
     `Customer Type: ${customerCategory}`,
     `Katta Ordered: ${katta}`,
